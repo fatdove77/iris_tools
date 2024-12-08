@@ -1,0 +1,134 @@
+{
+    "mean": 0.9881346405945658,
+    "std": 0.007134963568781016,
+    "min": 0.9574273824691772,
+    "max": 0.9983400106430054,
+    "median": 0.990542083978653,
+    "num_comparisons": 1968,
+    "best_matches": [
+        {
+            "generated_file": "image_308.png",
+            "best_match_file": "153430_3_iris_f.jpg",
+            "ssim_score": 0.9983400106430054
+        },
+        {
+            "generated_file": "image_1463.png",
+            "best_match_file": "176007_4_iris_f.jpg",
+            "ssim_score": 0.9980772733688354
+        },
+        {
+            "generated_file": "image_357.png",
+            "best_match_file": "851210_3_iris_f.jpg",
+            "ssim_score": 0.997838020324707
+        },
+        {
+            "generated_file": "image_483.png",
+            "best_match_file": "689841_4_iris_f.jpg",
+            "ssim_score": 0.9978367686271667
+        },
+        {
+            "generated_file": "image_50.png",
+            "best_match_file": "6200_3_iris_f.jpg",
+            "ssim_score": 0.9976698756217957
+        },
+        {
+            "generated_file": "image_1068.png",
+            "best_match_file": "176007_4_iris_f.jpg",
+            "ssim_score": 0.9976611137390137
+        },
+        {
+            "generated_file": "image_795.png",
+            "best_match_file": "99600_3_iris_f.jpg",
+            "ssim_score": 0.9976076483726501
+        },
+        {
+            "generated_file": "image_1659.png",
+            "best_match_file": "986950_3_iris_f.jpg",
+            "ssim_score": 0.9975382685661316
+        },
+        {
+            "generated_file": "image_1406.png",
+            "best_match_file": "676479_3_iris_f.jpg",
+            "ssim_score": 0.9974863529205322
+        },
+        {
+            "generated_file": "image_810.png",
+            "best_match_file": "689841_3_iris_f.jpg",
+            "ssim_score": 0.9974384307861328
+        }
+    ],
+    "worst_matches": [
+        {
+            "generated_file": "image_961.png",
+            "best_match_file": "549772_3_iris_f.jpg",
+            "ssim_score": 0.9574273824691772
+        },
+        {
+            "generated_file": "image_1231.png",
+            "best_match_file": "549772_3_iris_f.jpg",
+            "ssim_score": 0.9580587148666382
+        },
+        {
+            "generated_file": "image_129.png",
+            "best_match_file": "549772_3_iris_f.jpg",
+            "ssim_score": 0.9584219455718994
+        },
+        {
+            "generated_file": "image_1141.png",
+            "best_match_file": "549772_3_iris_f.jpg",
+            "ssim_score": 0.9587625861167908
+        },
+        {
+            "generated_file": "image_1494.png",
+            "best_match_file": "549772_3_iris_f.jpg",
+            "ssim_score": 0.9594739675521851
+        },
+        {
+            "generated_file": "image_1879.png",
+            "best_match_file": "549772_3_iris_f.jpg",
+            "ssim_score": 0.9599406123161316
+        },
+        {
+            "generated_file": "image_372.png",
+            "best_match_file": "549772_3_iris_f.jpg",
+            "ssim_score": 0.9605231285095215
+        },
+        {
+            "generated_file": "image_1837.png",
+            "best_match_file": "549772_3_iris_f.jpg",
+            "ssim_score": 0.9610787630081177
+        },
+        {
+            "generated_file": "image_1831.png",
+            "best_match_file": "549772_3_iris_f.jpg",
+            "ssim_score": 0.9615340232849121
+        },
+        {
+            "generated_file": "image_76.png",
+            "best_match_file": "549772_3_iris_f.jpg",
+            "ssim_score": 0.9616163969039917
+        }
+    ],
+    "distribution": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1968
+    ]
+}
